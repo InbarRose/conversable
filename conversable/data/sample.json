@@ -1,0 +1,115 @@
+{
+  "metadata": {
+    "description": "English to Darklander Accent",
+    "version": "0.1"
+  },
+  "supported_translations": [
+    "ab"
+  ],
+  "phrases": [
+    [
+      "they are",
+      "deyr"
+    ],
+    [
+      "to say",
+      "a say"
+    ],
+    [
+      "do you",
+      "diya"
+    ],
+    [
+      "at the",
+      "adda"
+    ],
+    [
+      "get it done",
+      "gedderdun"
+    ]
+  ],
+  "words": [
+    [
+      "how",
+      "'ow"
+    ],
+    [
+      "here",
+      "'ere"
+    ],
+    [
+      "this",
+      "dis"
+    ],
+    [
+      "thinking",
+      "dinkin"
+    ],
+    [
+      "my",
+      "ma"
+    ],
+    [
+      "captain",
+      "cap'n"
+    ],
+    [
+      "leather",
+      "leda'"
+    ],
+    [
+      "soaked",
+      "soagged"
+    ],
+    [
+      "have",
+      "av"
+    ],
+    [
+      "coins",
+      "goins"
+    ],
+    [
+      "they",
+      "dey"
+    ],
+    [
+      "don't",
+      "don'"
+    ],
+    [
+      "the",
+      "da"
+    ],
+    [
+      "that",
+      "ad"
+    ],
+    [
+      "thing",
+      "ding"
+    ],
+    [
+      "technology",
+      "denology"
+    ],
+    [
+      "then",
+      "den"
+    ],
+    [
+      "outclass",
+      "oudglass"
+    ]
+  ],
+  "characters": [
+    [
+      "t",
+      "d"
+    ],
+    [
+      "th",
+      "d"
+    ]
+  ]
+}
